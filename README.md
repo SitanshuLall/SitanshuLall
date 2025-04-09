@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World!, I'm Sitanshu Lall, an 🇮🇳 Web Developer 👋:
+- Pursuing B.Tech. in Computer Science and Engineering.
+- 
 
 <!--
 **SitanshuLall/SitanshuLall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
