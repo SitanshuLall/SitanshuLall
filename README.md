@@ -24,8 +24,8 @@
 ###
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sitanshulall)<br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SitanshuLall)<br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sitanshulall.exe) <br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sitanshulall.work@gmail.com) 
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sitanshulall)<br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SitanshuLall)<br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sitanshulall.work@gmail.com) <br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sitanshulall.exe) <br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
